@@ -1,1 +1,2 @@
 Hallo wereld, dit is mijn eerste Git-bestand!
+Dit is mijn tweede regel in hello.txt
